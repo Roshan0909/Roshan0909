@@ -35,4 +35,4 @@ Here are a few of my recent projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan0909&show_icons=true&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan0909&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan0909&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan0909&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
