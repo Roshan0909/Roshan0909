@@ -14,6 +14,33 @@ Currently working on exciting projects in **CCTV Video Analysis**, **Cloud Burst
 - **Tools**: GitHub, Jupyter, ChatGPT
 - **Data Visualization**: Matplotlib, Seaborn
 
+
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFAA00?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🖥️ Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+### 📊 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 📚 Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 🛠️ Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1C1C1C?style=flat&logo=openai&logoColor=white)
 ## 🔨 Projects
 
 Here are a few of my recent projects:
@@ -23,6 +50,12 @@ Here are a few of my recent projects:
 - **Multilingual Voice-to-Text App**: Built an app that converts voice to text and text to voice in multiple languages.
 - **Website for Incubation Center**: Developed a CRM and project management tool using Django for student-mentor collaboration.
 
+
+## 🎤 Conferences & Hackathons
+- ![PyCon India 2023](https://img.shields.io/badge/PyCon%20India%202023-Hyderabad-3D76B1?style=flat)
+- ![AZConf Chennai](https://img.shields.io/badge/AZConf%20Chennai-2023-00ADEF?style=flat)
+- ![Gen AI Hackathon](https://img.shields.io/badge/Gen%20AI%20Hackathon-SNS%20Institution-00B5B8?style=flat)
+- ![Smart India Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon%20Grand%20Finale-National%20Level-F74C25?style=flat)
 ## 📣 Find Me Here
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
@@ -35,6 +68,5 @@ Here are a few of my recent projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan0909&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan0909&layout=compact&theme=radical)
-![Profile Visits](https://komarev.com/ghpvc/?username=Roshan0909)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Roshan0909/github-readme-stats,&theme=radical)
 
