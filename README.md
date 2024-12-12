@@ -34,10 +34,10 @@ Here are a few of my recent projects:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan0909&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan0909&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan0909&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan0909&layout=compact&theme=radical)
+
 ![Your Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Roshan0909)
 ![Profile Visits](https://komarev.com/ghpvc/?username=Roshan0909)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan0909&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
