@@ -51,7 +51,7 @@ Currently working on exciting projects in **CCTV Video Analysis**, **Cloud Burst
 ## 📣 Find Me Here
 
 - [LinkedIn](https://www.linkedin.com/in/nagaroshan-ns-87b207259/)
-- [Instagram](h(https://www.instagram.com/roshan_090/profilecard/?igsh=MWI3NXlvMjYyY3IxeQ==)
+- [Instagram](https://www.instagram.com/roshan_090/profilecard/?igsh=MWI3NXlvMjYyY3IxeQ==)
 - [GitHub](https://github.com/Roshan0909)
 
 ## ⚙️ GitHub Stats
