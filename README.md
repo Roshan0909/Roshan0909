@@ -50,8 +50,8 @@ Currently working on exciting projects in **CCTV Video Analysis**, **Cloud Burst
 - ![Smart India Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon%20Grand%20Finale-National%20Level-F74C25?style=flat)
 ## 📣 Find Me Here
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/nagaroshan-ns-87b207259/))
-- [Instagram]([https://twitter.com/your-twitter/](https://www.instagram.com/roshan_090/profilecard/?igsh=MWI3NXlvMjYyY3IxeQ==))
+- [LinkedIn](https://www.linkedin.com/in/nagaroshan-ns-87b207259/)
+- [Instagram](h(https://www.instagram.com/roshan_090/profilecard/?igsh=MWI3NXlvMjYyY3IxeQ==)
 - [GitHub](https://github.com/Roshan0909)
 
 ## ⚙️ GitHub Stats
