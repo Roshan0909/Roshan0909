@@ -41,14 +41,6 @@ Currently working on exciting projects in **CCTV Video Analysis**, **Cloud Burst
 ### 🛠️ Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-1C1C1C?style=flat&logo=openai&logoColor=white)
-## 🔨 Projects
-
-Here are a few of my recent projects:
-
-- **CCTV Video Analysis Model**: Developed a model using YOLO for real-time object detection and crime detection.
-- **Cloud Burst Prediction System**: Designed a forecasting tool using weather data to predict cloud bursts.
-- **Multilingual Voice-to-Text App**: Built an app that converts voice to text and text to voice in multiple languages.
-- **Website for Incubation Center**: Developed a CRM and project management tool using Django for student-mentor collaboration.
 
 
 ## 🎤 Conferences & Hackathons
@@ -58,9 +50,8 @@ Here are a few of my recent projects:
 - ![Smart India Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon%20Grand%20Finale-National%20Level-F74C25?style=flat)
 ## 📣 Find Me Here
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter/)
-- [Personal Portfolio](https://your-portfolio.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/nagaroshan-ns-87b207259/))
+- [Instagram]([https://twitter.com/your-twitter/](https://www.instagram.com/roshan_090/profilecard/?igsh=MWI3NXlvMjYyY3IxeQ==))
 - [GitHub](https://github.com/Roshan0909)
 
 ## ⚙️ GitHub Stats
