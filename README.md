@@ -1,7 +1,7 @@
 # Hi, I'm [Your Name] 👋
 
 ## 👨‍💻 About Me
-I’m a **BTech student** specializing in **Artificial Intelligence** and **Data Science** at **KGISL Institute of Technology**. Passionate about building innovative tech solutions using **Python**, **Machine Learning**, and **AI** technologies. I enjoy tackling real-world problems through hands-on projects and have a strong foundation in frameworks like **Django**, **Flask**, and **React.js**.
+I’m a **BTech student** specializing in **Artificial Intelligence** and **Data Science** at **KGISL Institute of Technology**. Passionate about building innovative tech solutions using **Python**, **Machine Learning**, and **AI** technologies. I enjoy tackling real-world problems through hands-on projects and have a strong foundation in frameworks like **Django**, **Flask**, and **React.js** and exploring the world of **AL&ML** and **Data Science**.
 
 Currently working on exciting projects in **CCTV Video Analysis**, **Cloud Burst Prediction**, and **Multilingual Voice-to-Text Apps**. I’ve also participated in national-level hackathons like **Gen AI Hackathon** and **Smart India Hackathon**, where I honed my skills in building impactful solutions.
 
@@ -22,7 +22,6 @@ Here are a few of my recent projects:
 - **Cloud Burst Prediction System**: Designed a forecasting tool using weather data to predict cloud bursts.
 - **Multilingual Voice-to-Text App**: Built an app that converts voice to text and text to voice in multiple languages.
 - **Website for Incubation Center**: Developed a CRM and project management tool using Django for student-mentor collaboration.
-- 
 
 ## 📣 Find Me Here
 
@@ -36,3 +35,4 @@ Here are a few of my recent projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan0909&show_icons=true&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan0909&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan0909&hide=contribs,prs)
