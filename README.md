@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm NAGAROSHAN NS 👋
 
 ## 👨‍💻 About Me
 I’m a **BTech student** specializing in **Artificial Intelligence** and **Data Science** at **KGISL Institute of Technology**. Passionate about building innovative tech solutions using **Python**, **Machine Learning**, and **AI** technologies. I enjoy tackling real-world problems through hands-on projects and have a strong foundation in frameworks like **Django**, **Flask**, and **React.js** and exploring the world of **AL&ML** and **Data Science**.
